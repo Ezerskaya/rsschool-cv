@@ -37,4 +37,11 @@ function findShort(s){
    return min
 }
 ```
+###Education:
+* HTMLAcademy
+* FreeCodeCamp
+* Udemy [React + Next.js - с нуля. Typescript,Hooks,SSR b CSS Grid](https://www.udemy.com/course/react-nextjs/learn/lecture/25873964#overview)
 
+###Languages:
+* Russian - Native
+* English - Upper-intermediate
