@@ -5,15 +5,14 @@
 
 ###A little bit about myself:
 > 
-> Нравится учиться и осваивать новые инструменты. 
-> Всегда цепляли глаз красивые сайты и хорошо сделанные сервисы.
-> Хочется делать также хорошо.
+> I like to study and  learning new instruments for develop websites.
+> Catchy well-made and easy to use sites.
+> I want to do webservices and websites that's a genuine public service.
 > 
-> Основная цель подтянуть знания java script. 
-> И пройти все этапы и программу курса максимально хорошо. 
+> Primary goal improve my knowledge Java Script. 
+> And complete rolling-scopes-school course with maximum success.
 > 
-> Как только пойму, что есть достаточно знаний и опыта. 
-> То хотелось бы попробовать себя ментором
+> I would like to try to be a mentor in the future
 
 ###Skills:
 * JavaScript
