@@ -1,9 +1,9 @@
-#Katerina Ezerskaya
+# Katerina Ezerskaya
 * Telegram: [@katjaezerskaja](https://t.me/katjaezerskaja)
 * [ezersk@gmail.com](ezersk@gmail.com)
 <hr>
 
-###A little bit about myself:
+### A little bit about myself:
 > 
 > I like to study and  learning new instruments for develop websites.
 > Catchy well-made and easy to use sites.
@@ -14,14 +14,14 @@
 > 
 > I would like to try to be a mentor in the future
 
-###Skills:
+### Skills:
 * JavaScript
 * HTML5, CSS3
 * Next.js
 * TypeScript (basic)
 * Figma
 
-###Code example:
+###C ode example:
 7 kyu
 Shortest Word
 ```js script
@@ -36,11 +36,11 @@ function findShort(s){
    return min
 }
 ```
-###Education:
+### Education:
 * HTMLAcademy
 * FreeCodeCamp
 * Udemy [React + Next.js - с нуля. Typescript,Hooks,SSR b CSS Grid](https://www.udemy.com/course/react-nextjs/learn/lecture/25873964#overview)
 
-###Languages:
+### Languages:
 * Russian - Native
 * English - Upper-intermediate
