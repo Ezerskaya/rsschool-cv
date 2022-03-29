@@ -24,7 +24,7 @@
 ### Code example:
 7 kyu
 Shortest Word
-```js script
+```
 function findShort(s){
   var arr = s.split(' ');
   var min = arr[0].length;
