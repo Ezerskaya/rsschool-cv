@@ -21,7 +21,7 @@
 * TypeScript (basic)
 * Figma
 
-###C ode example:
+### Code example:
 7 kyu
 Shortest Word
 ```js script
